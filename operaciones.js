@@ -23,7 +23,7 @@ function residuo(a,b){
  return  a %b
 };
 
-
+//export 
 module.exports = {
   add,
   substract,
