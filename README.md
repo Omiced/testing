@@ -19,7 +19,12 @@ npm install
 ```bash
 npm test
 ```
+# Como correr los test en modo observador (para que se actualize en cuanto hay cambios)
+```bash
+npm test -- --watch
+```
 
 # 📑Recursos útiles
 [Documentación de JEST](https://jestjs.io/docs/getting-started)
+[Matchers de JEST](https://jestjs.io/docs/using-matchers)
 
